@@ -1,0 +1,6 @@
+**/__pycache__
+*.pyc
+**/images
+*.log
+*.txt
+*.json
